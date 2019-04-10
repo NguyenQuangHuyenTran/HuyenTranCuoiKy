@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#00574B</color>
+    <color name="Hong">#33B8184E</color>
+    <color name="Xanh">#6FBD15</color>
+    <color name="Den">#010A0A</color>
+    <color name="K">#A6FA8BAD</color>
+    <color name="Trang">#FFFFFF</color>
+</resources>
